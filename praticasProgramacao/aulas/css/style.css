@@ -1,0 +1,63 @@
+body{
+    background-color: azure;
+    color: black;
+    margin: 0;
+}
+
+h1, h2{
+    color: rgba(114, 9, 44, 0.87);
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+}
+    
+h2{
+    background-color: rgb(128, 0, 70);
+    color: azure;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+    color: black;
+}
+
+header{
+    background-color: rgb(248, 189, 189);
+    color: black;
+}
+
+main{
+    margin: auto 20%;
+}
+
+footer{
+    background-color: rgb(248, 189, 189);
+}
+
+.destaque{
+    background-color: rgb(128, 0, 70);
+    color: azure;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#img-logo{
+    width: 50px;
+}
+
+nav li{
+display: inline;
+margin-left: 20px;
+color: maroon;
+font-weight: bold;
+border: 2px solid maroon;
+padding: 5px;
+}
+
+nav{
+    float: right;
+}
